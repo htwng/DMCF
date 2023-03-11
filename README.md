@@ -1,6 +1,6 @@
 # DMCF
 
-Matlab source code of tracking algorithm, paper [“Object Tracking Algorithm Based on Dual-Model Competition Mecha⁃nism”](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66oDzlh5fls-XQjpc9LTUX_QH4JW2EKrfULUVgYPMG3EqhVQuVOjo5Y&uniplatform=NZKPT) submitted to Acta Electronica Sinica.
+Matlab source code of tracking algorithm, paper "[Object Tracking Algorithm Based on Dual-Model Competition Mecha nism]"(https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66oDzlh5fls-XQjpc9LTUX_QH4JW2EKrfULUVgYPMG3EqhVQuVOjo5Y&uniplatform=NZKPT) submitted to Acta Electronica Sinica.
 
 ./run_DMCF.m is the baisc function to test our algorithm on benchmarks OTB2015[1], TinyTLP[2] and UAV20L[3]
 
